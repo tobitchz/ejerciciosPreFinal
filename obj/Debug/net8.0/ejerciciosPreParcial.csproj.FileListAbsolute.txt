@@ -1,0 +1,15 @@
+C:\Users\tojoa\Desktop\EjerciciosDOO\ejerciciosPreParcial\ejerciciosPreParcial\bin\Debug\net8.0\ejerciciosPreParcial.exe
+C:\Users\tojoa\Desktop\EjerciciosDOO\ejerciciosPreParcial\ejerciciosPreParcial\bin\Debug\net8.0\ejerciciosPreParcial.deps.json
+C:\Users\tojoa\Desktop\EjerciciosDOO\ejerciciosPreParcial\ejerciciosPreParcial\bin\Debug\net8.0\ejerciciosPreParcial.runtimeconfig.json
+C:\Users\tojoa\Desktop\EjerciciosDOO\ejerciciosPreParcial\ejerciciosPreParcial\bin\Debug\net8.0\ejerciciosPreParcial.dll
+C:\Users\tojoa\Desktop\EjerciciosDOO\ejerciciosPreParcial\ejerciciosPreParcial\bin\Debug\net8.0\ejerciciosPreParcial.pdb
+C:\Users\tojoa\Desktop\EjerciciosDOO\ejerciciosPreParcial\ejerciciosPreParcial\obj\Debug\net8.0\ejerciciosPreParcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tojoa\Desktop\EjerciciosDOO\ejerciciosPreParcial\ejerciciosPreParcial\obj\Debug\net8.0\ejerciciosPreParcial.AssemblyInfoInputs.cache
+C:\Users\tojoa\Desktop\EjerciciosDOO\ejerciciosPreParcial\ejerciciosPreParcial\obj\Debug\net8.0\ejerciciosPreParcial.AssemblyInfo.cs
+C:\Users\tojoa\Desktop\EjerciciosDOO\ejerciciosPreParcial\ejerciciosPreParcial\obj\Debug\net8.0\ejerciciosPreParcial.csproj.CoreCompileInputs.cache
+C:\Users\tojoa\Desktop\EjerciciosDOO\ejerciciosPreParcial\ejerciciosPreParcial\obj\Debug\net8.0\ejerciciosPreParcial.sourcelink.json
+C:\Users\tojoa\Desktop\EjerciciosDOO\ejerciciosPreParcial\ejerciciosPreParcial\obj\Debug\net8.0\ejerciciosPreParcial.dll
+C:\Users\tojoa\Desktop\EjerciciosDOO\ejerciciosPreParcial\ejerciciosPreParcial\obj\Debug\net8.0\refint\ejerciciosPreParcial.dll
+C:\Users\tojoa\Desktop\EjerciciosDOO\ejerciciosPreParcial\ejerciciosPreParcial\obj\Debug\net8.0\ejerciciosPreParcial.pdb
+C:\Users\tojoa\Desktop\EjerciciosDOO\ejerciciosPreParcial\ejerciciosPreParcial\obj\Debug\net8.0\ejerciciosPreParcial.genruntimeconfig.cache
+C:\Users\tojoa\Desktop\EjerciciosDOO\ejerciciosPreParcial\ejerciciosPreParcial\obj\Debug\net8.0\ref\ejerciciosPreParcial.dll
