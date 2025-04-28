@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ejerciciosPreParcial")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2c9092504b4b21bd2e1143474fff8c75f8a24718")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f25070e4eb328a414b44b42c9215e08dbbf32035")]
 [assembly: System.Reflection.AssemblyProductAttribute("ejerciciosPreParcial")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ejerciciosPreParcial")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

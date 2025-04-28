@@ -8,7 +8,7 @@ namespace ejerciciosPreParcial
 {
     class ejercicio2
     {
-        public static void Main(string[] args)
+        public static void Main3(string[] args)
         {
             Persona persona = new Persona();
             Persona persona1 = new Persona("Miguel",18);
