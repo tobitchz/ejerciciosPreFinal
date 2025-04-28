@@ -2,7 +2,7 @@
 
 class Program
 {
-    public static void Main(string[] args)
+    public static void Main2(string[] args)
     {
         Auto a = new Auto("Toyota", "Corolla", 2020, 4, true);
         Camioneta c = new Camioneta("Ford", "Ranger", 2022, 4, true);
